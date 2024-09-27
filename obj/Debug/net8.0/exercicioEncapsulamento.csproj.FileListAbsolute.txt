@@ -1,0 +1,14 @@
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\exercicioEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\exercicioEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\exercicioEncapsulamento.AssemblyInfo.cs
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\exercicioEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\bin\Debug\net8.0\exercicioEncapsulamento.exe
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\bin\Debug\net8.0\exercicioEncapsulamento.deps.json
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\bin\Debug\net8.0\exercicioEncapsulamento.runtimeconfig.json
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\bin\Debug\net8.0\exercicioEncapsulamento.dll
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\bin\Debug\net8.0\exercicioEncapsulamento.pdb
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\exercicioEncapsulamento.dll
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\refint\exercicioEncapsulamento.dll
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\exercicioEncapsulamento.pdb
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\exercicioEncapsulamento.genruntimeconfig.cache
+C:\Users\LOGICA\source\repos\exercicioEncapsulamento\obj\Debug\net8.0\ref\exercicioEncapsulamento.dll
